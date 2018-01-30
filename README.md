@@ -6,8 +6,8 @@ http://www.hammerspoon.org/
 just remapping control+hjkl to arrow keys.
 
 ```
-control + h => left
-control + j => down
-control + k => up
-control + l => right
+opt + h => left
+opt + j => down
+opt + k => up
+opt + l => right
 ```
