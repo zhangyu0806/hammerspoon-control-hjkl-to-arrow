@@ -3,7 +3,7 @@ http://www.hammerspoon.org/
 
 
 # Simple Configuration
-just remapping control+hjkl to arrow keys.
+just remapping opt+hjkl to arrow keys.
 
 ```
 opt + h => left
